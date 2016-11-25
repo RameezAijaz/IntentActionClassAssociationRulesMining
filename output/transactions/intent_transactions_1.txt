@@ -1,0 +1,3 @@
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_Fragment

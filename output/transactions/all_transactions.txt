@@ -1,0 +1,12 @@
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_Fragment
+a_Katana-com.matteopacini.katana-21-v1.3.2.apk,i_android.intent.action.VIEW,c_Object
+a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.SEND,c_Object
+a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.VIEW,c_Object
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_WebViewClient
+a_Month Calendar Widget_com.tobiaskuban.android.monthcalendarwidgetfoss_1.1.4_4.apk,i_android.intent.action.VIEW,c_Fragment
+a_Katana-com.matteopacini.katana-21-v1.3.2.apk,i_android.intent.action.VIEW,c_Object
+a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.SEND,c_Object
+a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.VIEW,c_Object

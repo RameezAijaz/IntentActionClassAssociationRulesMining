@@ -1,0 +1,1 @@
+a_Katana-com.matteopacini.katana-21-v1.3.2.apk,i_android.intent.action.VIEW,c_Object
