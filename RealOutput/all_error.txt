@@ -1,0 +1,270 @@
+_____ERROR___________
+com.scores365.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.wiselane.revealcricketquiz.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_used_vars'
+_____ERROR___________
+com.martinvillar.android.bibliaenespanol.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.voonik.android.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.CallArabia.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.cyworld.camera.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.gamevil.millionarthur.android.google.global.normal.apk
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+com.google.android.apps.messaging.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.martinvillar.android.bibliaenchino.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.nextgenreality.wrt.apk
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+com.dynamixsoftware.printershare.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.tcore.android.LoadBoard.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+org.buffer.android.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+org.gzy.crazygerm.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_values'
+_____ERROR___________
+appNameTest1
+_____ERROR___________
+net.nshc.droidx3.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.dsi.ant.plugins.antplus.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.ghisler.android.TotalCommander.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.ttxapps.dropsync.apk
+_____ERROR___________
+jp.co.siliconstudio.YEBISDemo.apk
+_____ERROR___________
+com.scb.dash.android.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.flowrome.argonos.apk
+_____ERROR___________
+com.augmentra.viewranger.android.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.fstop.photo.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.wizzhard.mexico.apk
+_____ERROR___________
+com.access_company.android.comicwalker.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.somocon.ntv.mobile.videoplayer.apk
+_____ERROR___________
+TODO.txt
+_____ERROR___________
+com.scores365.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.wiselane.revealcricketquiz.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_used_vars'
+_____ERROR___________
+com.martinvillar.android.bibliaenespanol.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.voonik.android.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.CallArabia.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.cyworld.camera.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.gamevil.millionarthur.android.google.global.normal.apk
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+com.google.android.apps.messaging.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.martinvillar.android.bibliaenchino.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.nextgenreality.wrt.apk
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+com.dynamixsoftware.printershare.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.tcore.android.LoadBoard.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+org.buffer.android.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+org.gzy.crazygerm.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_values'
+_____ERROR___________
+appNameTest1
+_____ERROR___________
+com.hanabank.ebk.channel.android.hananbank.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.digibites.calendar.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.audible.application.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+lifeisbetteron.com.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.martinvillar.android.bibliaenfrances.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+vintage.audio.tools.bassbooster.apk
+_____ERROR___________
+com.teslacoilsw.launcher.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.CallAmerica.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.sonyericsson.digitalclockwidget2.apk
+Inappropriate argument type.
+'NoneType' object has no attribute '__getitem__'
+_____ERROR___________
+com.CallAfrica.apk
+Attribute not found.
+'TryBlock' object has no attribute 'visit_cond'
+_____ERROR___________
+com.team48dreams.player.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.shopgate.android.app13089.apk
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+com.access_company.android.comicwalker.apk
+Attribute not found.
+'NoneType' object has no attribute 'get_end'
+_____ERROR___________
+com.somocon.ntv.mobile.videoplayer.apk
+_____ERROR___________
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+_____ERROR___________
+_____ERROR___________
+_____ERROR___________
+_____ERROR___________
+Attribute not found.
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+_____ERROR___________
+_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+File is not a zip file
+_____ERROR___________
+File is not a zip file
+_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'
+_____ERROR___________
+File is not a zip file
+_____ERROR___________
+File is not a zip file_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file
+_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file
+_____ERROR___________
+File is not a zip file_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file_____ERROR___________
+_____ERROR___________
+File is not a zip file
+_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file
+_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file
+_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+'NoneType' object has no attribute 'getElementsByTagName'_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file_____ERROR___________
+File is not a zip file
