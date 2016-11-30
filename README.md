@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1fmfqpB2dzCkZ75qocVsrb1y7cMnkE0RgxDu4gi20Xsw/
 
 #Repository
 
-This repository contents 
+This repository contents:<br />
 1) apk_decompile.py used to decompile the apk and extrat intents and classes from it.<br />
 2) market_basket_transaction_generator.py to merge all the transactions to one file and then convert that to r format<br />
 3) generate_association_rules.R to generate association rules<br />
