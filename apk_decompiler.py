@@ -14,20 +14,15 @@ from multiprocessing import Pool
 current_directory_path=os.path.dirname(os.path.realpath(__file__))
 apks_directory=current_directory_path+'/apks/'
 output_directory=current_directory_path+'/output'
-no_of_processes=6
+no_of_processes=3
 pool = Pool(5)
 
 
-
-transaction_r_format_file = output_directory + '/transaction_r_format_file.txt'
-transaction_r_format_file_stream = open(transaction_r_format_file, "a")
-
-
 all_intent_actions_from_file = set(line.rstrip('\n') for line in
-                      open('/home/rameez/Desktop/IndependentProject/source/all_intent_actions'))
+                      open(current_directory_path+'/all_intent_actions'))
 
 all_android_classes_from_file = set(line.rstrip('\n') for line in
-                       open('/home/rameez/Desktop/IndependentProject/source/android_classes.txt'))
+                       open(current_directory_path+'/android_classes.txt'))
 
 
 def convert_descriptor(name):
@@ -93,7 +88,6 @@ def get_all_intents_with_super_classs(a,total,apk_index,process_no):
 
 def write_intents_transactions_to_txt_file(apk,intent_transactions_text_file_stream):
     for data in apk['apk_intent_with_super_class']:
-        print '____________________________________________writing__________________________________________'
         intent_transactions_text_file_stream.write('a_'+apk['apk_name']+','+'i_'+data['intent'] + ','+ 'c_'+data['android_super_class'].rsplit('/', 1)[-1].replace(';', '')+"\n")
 
 if not os.path.exists(output_directory):

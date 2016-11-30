@@ -1,12 +1,12 @@
 library(arules)
 totalData <-
   read.transactions(
-    "data/intent_transactions.txt",
+    "output/transaction_r_format_file.txt",
     format = "basket",
     sep = ",",
     rm.duplicates = FALSE
   )
-output_file_name <- "output_conf_0.4.html"
+output_file_name <- "output/k_fold_output.html"
 totalData <- totalData[sample(nrow(totalData)), ]
 min_support<-0.00000000000000000000000000000000000000000000000000000000000000000000000001;
 min_confidence <- 0.4;

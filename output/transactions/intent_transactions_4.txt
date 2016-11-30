@@ -1,2 +1,0 @@
-a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.SEND,c_Object
-a_Ministocks_nitezh.ministock_53_53.apk,i_android.intent.action.VIEW,c_Object

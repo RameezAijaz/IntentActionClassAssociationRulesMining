@@ -1,6 +1,0 @@
-android.intent.action.VIEW,WebViewClient
-android.intent.action.VIEW,WebViewClient
-android.intent.action.VIEW,Fragment
-android.intent.action.VIEW,Object
-android.intent.action.SEND,Object
-android.intent.action.VIEW,Object
