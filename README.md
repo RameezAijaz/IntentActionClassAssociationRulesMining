@@ -8,13 +8,13 @@ https://docs.google.com/document/d/1fmfqpB2dzCkZ75qocVsrb1y7cMnkE0RgxDu4gi20Xsw/
 #Repository
 
 This repository contents 
-1) apk_decompile.py used to decompile the apk and extrat intents and classes from it.
-2) market_basket_transaction_generator.py to merge all the transactions to one file and then convert that to r format
-3) generate_association_rules.R to generate association rules
-4) k_fold_validation_script.R for the k fold validation
-5) Put all the apk file in apks folder then run apk_decompile to fetch intent and classes transactions
-6) All the output and error files will be generated in output folder
-7) androidstudio_plugin folder contains source code for IntelliJ plugin with rule parser library code which is used by plugin to parse the rule file
-8) RealOutput folder contains all the original output files which were generated as a result of runing these scripts on almost 40,000 apk files. 
+1) apk_decompile.py used to decompile the apk and extrat intents and classes from it.<br />
+2) market_basket_transaction_generator.py to merge all the transactions to one file and then convert that to r format<br />
+3) generate_association_rules.R to generate association rules<br />
+4) k_fold_validation_script.R for the k fold validation<br />
+5) Put all the apk file in apks folder then run apk_decompile to fetch intent and classes transactions<br />
+6) All the output and error files will be generated in output folder<br />
+7) androidstudio_plugin folder contains source code for IntelliJ plugin with rule parser library code which is used by <br />plugin to parse the rule file<br />
+8) RealOutput folder contains all the original output files which were generated as a result of runing these scripts on <br />almost 40,000 apk files.<br /> 
 9) The original result for k fold validation is available on this url https://kfoldvalidation.firebaseapp.com/
  
